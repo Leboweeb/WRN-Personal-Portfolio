@@ -13,10 +13,10 @@ module.exports = {
     siteTitleAlt: `Personal Portfolio Website`,
     siteHeadline: `Personal Portfolio Website`,
     siteDescription: `Personal Portfolio Website`,
-    siteUrl: `localhost:8000`,
+    siteUrl: `https://leboweeb.github.io/WRN.Portfolio.io/`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: ``,
+    author: `@Leboweeb`,
   },
   plugins: [
     {
