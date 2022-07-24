@@ -1,0 +1,10 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/Diamond.png": "static/Diamond-9977aaf720bcd95e095afa079aaa1878.png",
+  "static/Diamond.svg": "static/Diamond-c82c840ef63837a053598123c3978515.svg",
+  "static/Tux.svg": "static/Tux-3467c1856b18f06d9f1e59ef4f9b3bdb.svg",
+  "static/Wiktionary.svg": "static/Wiktionary-9298cbd475fd3519b17950a13e9246fc.svg",
+  "static/background-hero-light.jpg": "static/background-hero-light-7ee94a56cf6be48485e9961c078ee3d2.jpg",
+  "static/background-hero.jpg": "static/background-hero-f2369b64877db9a1b8cf98e70144cc67.jpg"
+}
